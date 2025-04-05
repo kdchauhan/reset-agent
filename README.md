@@ -1,3 +1,3 @@
 # Reset Agent UI
 
-Personal fasting companion UI built with React + Vite.
+A simple fasting companion UI powered by React and Vite.
